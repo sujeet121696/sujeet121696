@@ -1,7 +1,13 @@
-## Hi there 👋
+### Hi there 👋 I'm 56
 
-<!--
-**sujeet121696/sujeet121696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## My Stats
+
+<div align="left">
+    <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=sujeet121696&count_private=true&show_icons=true&theme=gruvbox" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ray-56&count_private=true&show_icons=true&layout=compact&theme=gruvbox" alt="languages" height="165">
+    </p>
+</div>
 
 Here are some ideas to get you started:
 
