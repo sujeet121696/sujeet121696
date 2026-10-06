@@ -15,7 +15,7 @@
 
 <img src="./img/stack.svg?v=2" width="100%" alt="My stack: TypeScript, Python, Jupyter, React, Vite, Node.js, LLM APIs, voice AI, and Cloudflare." />
 
-<img src="./img/beyond.svg?v=2" width="100%" alt="Beyond work: YouTube channels, hackathons, and mentoring juniors. Off the screen: cricket, badminton, table tennis, and football." />
+<img src="./img/beyond.svg?v=3" width="100%" alt="Beyond work: YouTube channels, hackathons, and mentoring juniors. Off the screen: cricket, badminton, table tennis, and football." />
 
 ### GitHub stats
 
