@@ -30,6 +30,7 @@
 <img src="./img/connect.svg?v=3" width="100%" alt="Let's connect on LinkedIn, Instagram, YouTube (Kharidwise and Kodethos), GitHub, or LeetCode using the links below." />
 
 <p align="center">
+  <a href="https://sujeet121696.github.io">Portfolio</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/sujeet-singh121696/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://www.instagram.com/_sujeet_singh_/">Instagram — @_sujeet_singh_</a> &nbsp;·&nbsp;
   <a href="https://www.youtube.com/@kharidwise">YouTube — Kharidwise</a> &nbsp;·&nbsp;
