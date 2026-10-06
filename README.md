@@ -27,12 +27,13 @@
   <img src="https://streak-stats.demolab.com?user=sujeet121696&background=14161a&border=2b2f36&stroke=2b2f36&ring=00b0ff&fire=00c853&currStreakNum=e6e8eb&sideNums=e6e8eb&currStreakLabel=00b0ff&sideLabels=9aa2ad&dates=9aa2ad" height="165" alt="GitHub streak" />
 </p>
 
-<img src="./img/connect.svg?v=2" width="100%" alt="Let's connect on LinkedIn, Instagram, YouTube (Kharidwise and Kodethos), or GitHub using the links below." />
+<img src="./img/connect.svg?v=3" width="100%" alt="Let's connect on LinkedIn, Instagram, YouTube (Kharidwise and Kodethos), GitHub, or LeetCode using the links below." />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sujeet-singh121696/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://www.instagram.com/_sujeet_singh_/">Instagram — @_sujeet_singh_</a> &nbsp;·&nbsp;
   <a href="https://www.youtube.com/@kharidwise">YouTube — Kharidwise</a> &nbsp;·&nbsp;
   <a href="https://www.youtube.com/@Kodethos">YouTube — Kodethos</a> &nbsp;·&nbsp;
-  <a href="https://github.com/sujeet121696">GitHub</a>
+  <a href="https://github.com/sujeet121696">GitHub</a> &nbsp;·&nbsp;
+  <a href="https://leetcode.com/u/sujeet9tean/">LeetCode</a>
 </p>
