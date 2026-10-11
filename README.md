@@ -2,18 +2,18 @@
   <img src="./img/hero.svg?v=2" width="100%" alt="Hi, I'm Sujeet Singh, Software Engineer II. I build AI agents that take calls, move money, and handle files." />
 </p>
 
-<img src="./img/projects.svg?v=2" width="100%" alt="Things I've built: Kharidwise, fit-first buying advice for India; Resolve, a voice support agent that issues refunds mid-call; SlotSaver, an AI front-desk agent that refills cancelled appointment slots; Stapler, an agent-driven PDF workspace using WebMCP." />
+<img src="./img/projects.svg?v=3" width="100%" alt="Things I've built: Kharidwise, fit-first buying advice for India; Resolve, a voice support agent that issues refunds mid-call; SlotSaver, an AI front-desk agent that refills cancelled appointment slots; Stapler, an agent-driven PDF workspace using WebMCP." />
 
 ### Things I've built
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
-| [**Kharidwise**](https://kharidwise.com/) | Fit-first buying advice for India: checks the published specs, says what is missing, and ranks products on fit, not commission. | TypeScript · Astro · Cloudflare Workers |
+| [**Kharidwise**](https://kharidwise.com/) | Fit-first buying advice for India: checks the published specs, says what is missing, and ranks products on fit, not commission. | TypeScript · Next.js · Cloudflare Workers |
 | [**Resolve**](https://github.com/sujeet121696/resolve) | Voice support agent: verifies the caller by OTP, clears the case through an independent policy guard, then issues a real refund mid-call. Built for The Great Agent Hackathon 2026. [Video](https://youtu.be/SwnDqiQuOmo) | TypeScript · ElevenLabs · Freshdesk · Dodo Payments |
 | [**SlotSaver**](https://github.com/sujeet121696/slotsaver) | AI front-desk agent that confirm-calls tomorrow's patients and, when someone cancels, calls the waitlist to refill the slot. [Live demo](https://slotsaver.kharidwise.com/demo_board?demo=1) | Python · AWS Strands Agents · CALL-E · Groq |
 | [**Stapler**](https://github.com/sujeet121696/stapler) | Browser-only PDF workspace an AI agent drives through WebMCP tools; files never leave the tab. Built for the WebMCP Challenge. [Live app](https://stapler.kharidwise.com/) | React · TypeScript · pdf-lib · WebMCP |
 
-<img src="./img/stack.svg?v=2" width="100%" alt="My stack: TypeScript, Python, Jupyter, React, Vite, Node.js, LLM APIs, voice AI, and Cloudflare." />
+<img src="./img/stack.svg?v=3" width="100%" alt="My stack: TypeScript, Python, Jupyter, React, Vite, Node.js, LLM APIs, voice AI, and Cloudflare." />
 
 <img src="./img/beyond.svg?v=3" width="100%" alt="Beyond work: YouTube channels, hackathons, and mentoring juniors. Off the screen: cricket, badminton, table tennis, and football." />
 
